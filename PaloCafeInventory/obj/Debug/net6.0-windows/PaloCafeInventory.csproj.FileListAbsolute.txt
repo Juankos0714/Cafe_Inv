@@ -1,0 +1,5 @@
+C:\Users\jucar\Documents\project\PaloCafeInventory\obj\Debug\net6.0-windows\PaloCafeInventory.csproj.AssemblyReference.cache
+C:\Users\jucar\Documents\project\PaloCafeInventory\obj\Debug\net6.0-windows\PaloCafeInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jucar\Documents\project\PaloCafeInventory\obj\Debug\net6.0-windows\PaloCafeInventory.AssemblyInfoInputs.cache
+C:\Users\jucar\Documents\project\PaloCafeInventory\obj\Debug\net6.0-windows\PaloCafeInventory.AssemblyInfo.cs
+C:\Users\jucar\Documents\project\PaloCafeInventory\obj\Debug\net6.0-windows\PaloCafeInventory.csproj.CoreCompileInputs.cache
